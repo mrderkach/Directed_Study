@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+  <label id="NONENTAILMENT">
+    <Accuracy>64.632</Accuracy>
+    <Precision>82.626</Precision>
+    <Recall>48.431</Recall>
+    <F1>61.068</F1>
+    <ContingencyTable FN="871" FP="172" TN="1088" TP="818"/>
+  </label>
+  <label id="ENTAILMENT">
+    <Accuracy>52.289</Accuracy>
+    <Precision>35.273</Precision>
+    <Recall>83.253</Recall>
+    <F1>49.552</F1>
+    <ContingencyTable FN="139" FP="1268" TN="851" TP="691"/>
+  </label>
+  <label id="CONTRADICTION">
+    <Accuracy>85.419</Accuracy>
+    <Precision>1.000</Precision>
+    <Recall>0.000</Recall>
+    <F1>0.000</F1>
+    <ContingencyTable FN="430" FP="0" TN="2519" TP="0"/>
+  </label>
+  <Accuracy>67.447</Accuracy>
+  <Precision>51.170</Precision>
+  <Recall>51.170</Recall>
+  <F1micro>51.170</F1micro>
+  <ContingencyTable FN="1440" FP="1440" TN="4458" TP="1509"/>
+</results>
