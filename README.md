@@ -22,12 +22,12 @@ https://github.com/kouylekov/edits
 
 https://sourceforge.net/projects/edits/
 
-** Reports explanation **
-SICK_report1 - Sick test trained on Sick train, where entailments are: Entailment, Nonentailment, Contradiction
-SICK_report2 - Sick test trained on Sick train, where entailments are: Entailment, Nonentailment
-SICK_report3 - Full Sick trained on Snli train
-SNLI_report1 - Snli test trained on Snli train
-Debatepedia_report1 - Debatepedia test trained on (Debatepedia train | Snli train - same result)
-Debatepedia_report1 - Debatepedia test with sentences joined via "and", punctuation removed trained on Snli train
+**Reports explanation**
+* SICK_report1 - Sick test trained on Sick train, where entailments are: Entailment, Nonentailment, Contradiction
+* SICK_report2 - Sick test trained on Sick train, where entailments are: Entailment, Nonentailment
+* SICK_report3 - Full Sick trained on Snli train
+* SNLI_report1 - Snli test trained on Snli train
+* Debatepedia_report1 - Debatepedia test trained on (Debatepedia train | Snli train - same result)
+* Debatepedia_report1 - Debatepedia test with sentences joined via "and", punctuation removed trained on Snli train
 
 
