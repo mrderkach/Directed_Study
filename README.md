@@ -10,7 +10,7 @@ https://github.com/facebookresearch/SentEval
 
 http://www-sop.inria.fr/NoDE/NoDE-xml.html
 
-*Edits 2.3*
+*Edits 2.1*
 
 https://github.com/hltfbk/EOP-1.2.3/wiki/EditDistance
 
