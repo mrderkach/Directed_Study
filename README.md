@@ -1,6 +1,7 @@
 # Directed_Study
 Detecting Textual Entailments in Biochemical Articles using EDITS and Transfer Learning
 
+For tips on how to install and run EDITS, please refer to TipsForReproducingResults.md
 
 *Original datasets*
 
