@@ -28,6 +28,7 @@ https://sourceforge.net/projects/edits/
 * SICK_report3 - Full Sick trained on Snli train
 * SNLI_report1 - Snli test trained on Snli train
 * Debatepedia_report1 - Debatepedia test trained on (Debatepedia train | Snli train - same result)
-* Debatepedia_report1 - Debatepedia test with sentences joined via "and", punctuation removed trained on Snli train
+* Debatepedia_report2 - Debatepedia test trained on (Debatepedia train | Snli train - same result) - each pair has only 1 sentence in text and hypothesis 
+* Debatepedia_report3 - Debatepedia test with sentences joined via "and", punctuation removed trained on Snli train
 
 
